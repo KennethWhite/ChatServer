@@ -1,3 +1,5 @@
+This was an assignment for an introduction to networking class.
+
 # The Quarter Project
 
 Assignment details.\
